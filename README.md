@@ -1,2 +1,0 @@
-# Practicepython
- STore practice here 
